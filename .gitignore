@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Common cache and metadata
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+.envrc
